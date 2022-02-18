@@ -66,6 +66,7 @@ future==0.18.2
 gevent @ file:///C:/ci/gevent_1601397627942/work
 glob2==0.7
 greenlet @ file:///C:/ci/greenlet_1600885448389/work
+gunicorn==20.1.0
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
@@ -236,6 +237,7 @@ watchdog @ file:///C:/ci/watchdog_1593447437088/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
+whitenoise==6.0.0
 widgetsnbextension==3.5.1
 win-inet-pton==1.1.0
 win-unicode-console==0.5
